@@ -1,0 +1,7 @@
+--- diskusage.py	2021-10-02 23:21:12.330477700 +0530
++++ diskusage_copy.py	2021-10-02 23:25:38.868031000 +0530
+@@ -1,2 +1,2 @@
+-this is the 1st line 
+-this is the 3rd line
++this is the 1st line
++this is the 2nd line

@@ -1,7 +1,8 @@
---- diskusage.py	2021-10-02 23:21:12.330477700 +0530
-+++ diskusage_copy.py	2021-10-02 23:25:38.868031000 +0530
+--- diskusage.txt	2021-10-02 23:31:44.573573400 +0530
++++ diskusage_copy.txt	2021-10-02 23:32:11.351550400 +0530
 @@ -1,2 +1,2 @@
--this is the 1st line 
--this is the 3rd line
-+this is the 1st line
-+this is the 2nd line
+ this is 1 line
+-this is 3 line
+\ No newline at end of file
++this is 2 line
+\ No newline at end of file

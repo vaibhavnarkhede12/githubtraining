@@ -58,6 +58,11 @@ if we want to revert to unstaging area after doing git add .
 to revert a latest commit made locally to master -- OR --  if you delete any file from local master and you want it back 
 1.	git reset --hard origin/master  
 
+To revert multiple commits for eg. (if you have made 3 commits and now you hae to revert all 3 in one go ) you need the commit no or hash of the commit which was done before the 3 commits.
+1. git checkout master
+2. git reset --hard  02a4f034ad60af2ba92c42411022bae610ddbfd3
+3. git push -f
+
 to revert back from commit to staging area
 1.	git reset --soft HEAD~1 
 
